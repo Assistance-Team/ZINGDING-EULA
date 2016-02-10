@@ -27,4 +27,3 @@ ZINGDING-EULA가 적용된 모든 플러그인을 사용할시 ZINGDING-EULA의
 이러한 저작권을 지키지않으려하는 경우 본 라이센스의 저작권법의 의거해 저작권법 위반에 
 대한 민형사적책임을 지게될수도있습니다.
 
-# All Copyright Reserved #
