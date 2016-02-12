@@ -7,7 +7,7 @@ ZINGDING-EULA End User License Agreement is a copy of the software work ZINGDING
 
 #Content Licensing
 
-Agreeing to ZINGDING-EULA when using this plugin and commercial gain, including all the plug-ins for the ZINGDING-EULA is a plugin code unauthorized modification (not even one letter), the code for sale, plug-sale, plug producers changed the name of the plugin Change and prohibited acts modifying the code.
+Agreeing to ZINGDING-EULA when using this plugin and commercial gain, including all the plugins for the ZINGDING-EULA is a plugin code unauthorized modification (not even one letter), the code for sale, plugin-sale, plugin producers changed the name of the plugin Change and prohibited acts modifying the code.
 
 #The ZINGDING-EULA has the following licenses.
 Article 1: When modifying the plugin code to delete the plug immediately.
