@@ -30,7 +30,7 @@ ZINGDING-EULA 최종 사용자 동의서는 소프트웨어 저작물에 대한 
 
 제10조: 아무리 합의 헤서 2차 3차 또는 4~ 차수정이여도 저작권은 1차인 ZINGDING (징딩님) 이 소유자이고 이를 중단요청을 할수있다.
 
-제11조: 이 EULA 이 깨지지않는한 ZINGDING-EULA 의 소유는 ZINGDING (징딩님) 이며 저작권은 ZINGDING (징딩님) 이다. 
+제11조: ZINGDING-EULA 가 깨지지않는한 ZINGDING-EULA 의 소유는 ZINGDING (징딩님) 이며 저작권은 ZINGDING (징딩님) 이다. 
 
 본 플러그인은 저작권법에 의하여 보호됩니다.
 라이선스 위반 시
